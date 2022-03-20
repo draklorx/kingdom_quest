@@ -3,7 +3,7 @@
       "icon": {
         "item": "minecraft:stonecutter"
       },
-      "title": "Demodude Dwelling",
+      "title": "Demodude's Dwelling",
       "description": "Build a Mason's Structure",
       "frame": "task",
       "show_toast": true,
@@ -18,7 +18,7 @@
             "items": [
               "minecraft:written_book"
             ],
-            "nbt": "{\"title\": \"Demodude Dwelling\", \"author\": \"Bellandras\", \"generation\": 3}"
+            "nbt": "{\"title\": \"Demodude's Dwelling\", \"author\": \"Bellandras\", \"generation\": 3}"
           },
           "location": {
             "position": {
@@ -45,7 +45,7 @@
       }
     },
     "rewards": {
-        "function": "kingdom_quest:architecture_quests/complete_quest_demodude_dwelling"
+        "function": "kingdom_quest:architecture_quests/complete_quest_demodudes_dwelling"
     }
   }
   

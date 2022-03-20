@@ -5,14 +5,36 @@
         "kingdom_quest:starter_quests/give_quest_gear_up",
         "kingdom_quest:starter_quests/give_quest_load_the_lodestone",
         "kingdom_quest:starter_quests/give_quest_take_me_home",
+        
+        "kingdom_quest:diplomatic_quests/give_quest_the_long_road",
+
         "kingdom_quest:architecture_quests/give_quest_starting_small",
+        "kingdom_quest:architecture_quests/give_quest_farmers_hay_day",
+        "kingdom_quest:architecture_quests/give_quest_who_store_it_better",
+        "kingdom_quest:architecture_quests/give_quest_hide_and_seek",
+        "kingdom_quest:architecture_quests/give_quest_one_fish_two_fish",
+        "kingdom_quest:architecture_quests/give_quest_wooly_bully",
+        "kingdom_quest:architecture_quests/give_quest_leave_it_to_cleaver",
+        "kingdom_quest:architecture_quests/give_quest_librarians_lore",
+        "kingdom_quest:architecture_quests/give_quest_tooling_up",
+        "kingdom_quest:architecture_quests/give_quest_demodudes_dwelling",
+        "kingdom_quest:architecture_quests/give_quest_weaponmaster",
+        "kingdom_quest:architecture_quests/give_quest_heavy_metal",
+        "kingdom_quest:architecture_quests/give_quest_put_a_bow_on_it",
+        "kingdom_quest:architecture_quests/give_quest_automation_is_key",
+        "kingdom_quest:architecture_quests/give_quest_miscellaneous_build",
+        "kingdom_quest:architecture_quests/give_quest_arbitrary_build",
+        "kingdom_quest:architecture_quests/give_quest_you_look_enchanting",
+        "kingdom_quest:architecture_quests/give_quest_x_marks_the_spot",
+        "kingdom_quest:architecture_quests/give_quest_what_every_party_needs",
+
         "kingdom_quest:expedition_quests/give_quest_completionist",
         "kingdom_quest:expedition_quests/give_quest_adventure_completionist",
         "kingdom_quest:expedition_quests/give_quest_husbandry_completionist",
         "kingdom_quest:expedition_quests/give_quest_nether_completionist",
         "kingdom_quest:expedition_quests/give_quest_end_completionist",
         "kingdom_quest:expedition_quests/give_quest_finding_home",
-        "kingdom_quest:expedition_quests/give_quest_map_your_kingdom",
-        "kingdom_quest:diplomatic_quests/give_quest_the_long_road"
+        "kingdom_quest:expedition_quests/give_quest_map_your_kingdom"
+
     ]
 }

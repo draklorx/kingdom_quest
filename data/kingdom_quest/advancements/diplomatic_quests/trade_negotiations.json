@@ -1,0 +1,51 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond"
+      },
+      "title": "Trade Negotiations",
+      "description": "Build a shop at spawn.",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "kingdom_quest:diplomatic_quests/the_long_road",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:item_used_on_block",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:written_book"
+            ],
+            "nbt": "{\"title\": \"Trade Negotiations\", \"author\": \"Bellandras\", \"generation\": 3}"
+          },
+          "location": {
+            "position": {
+              "x": {
+                "min": 136,
+                "max": 137
+              },
+              "y": {
+                "min": 71,
+                "max": 72
+              },
+              "z": {
+                "min": -104,
+                "max": -103
+              }
+            },
+            "block": {
+              "blocks": [
+                "minecraft:lectern"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "kingdom_quest:starter_quests/complete_quest_trade_negotiations"
+    }
+  }
+  

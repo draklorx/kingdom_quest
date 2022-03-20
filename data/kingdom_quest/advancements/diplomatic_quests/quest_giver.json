@@ -1,0 +1,51 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:written_book"
+      },
+      "title": "Quest Giver",
+      "description": "Create a Quest.",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "kingdom_quest:diplomatic_quests/seat_of_power",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:item_used_on_block",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:written_book"
+            ],
+            "nbt": "{\"title\": \"Quest Giver\", \"author\": \"Bellandras\", \"generation\": 3}"
+          },
+          "location": {
+            "position": {
+              "x": {
+                "min": 136,
+                "max": 137
+              },
+              "y": {
+                "min": 71,
+                "max": 72
+              },
+              "z": {
+                "min": -104,
+                "max": -103
+              }
+            },
+            "block": {
+              "blocks": [
+                "minecraft:lectern"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "kingdom_quest:starter_quests/complete_quest_quest_giver"
+    }
+  }
+  

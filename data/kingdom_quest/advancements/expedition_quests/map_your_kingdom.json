@@ -1,0 +1,51 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:map"
+      },
+      "title": "Map Your Kingdom",
+      "description": "Make a map of your entire kingdom.",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "kingdom_quest:expedition_quests/expedition_quests",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:item_used_on_block",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:written_book"
+            ],
+            "nbt": "{\"title\": \"Map Your Kingdom\", \"author\": \"Bellandras\", \"generation\": 3}"
+          },
+          "location": {
+            "position": {
+              "x": {
+                "min": 136,
+                "max": 137
+              },
+              "y": {
+                "min": 71,
+                "max": 72
+              },
+              "z": {
+                "min": -104,
+                "max": -103
+              }
+            },
+            "block": {
+              "blocks": [
+                "minecraft:lectern"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "kingdom_quest:expedition_quests/complete_quest_map_your_kingdom"
+    }
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:stone_bricks"
+      },
+      "title": "Seat of Power",
+      "description": "Build a stronghold to rule from.",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "kingdom_quest:diplomatic_quests/trade_negotiations",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:item_used_on_block",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:written_book"
+            ],
+            "nbt": "{\"title\": \"Seat of Power\", \"author\": \"Bellandras\", \"generation\": 3}"
+          },
+          "location": {
+            "position": {
+              "x": {
+                "min": 136,
+                "max": 137
+              },
+              "y": {
+                "min": 71,
+                "max": 72
+              },
+              "z": {
+                "min": -104,
+                "max": -103
+              }
+            },
+            "block": {
+              "blocks": [
+                "minecraft:lectern"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "kingdom_quest:starter_quests/complete_quest_seat_of_power"
+    }
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "values": [
+        "kingdom_quest:starter_quests/give_quest_the_quest_begins",
+        "kingdom_quest:starter_quests/give_quest_lost_and_found",
+        "kingdom_quest:starter_quests/give_quest_gear_up",
+        "kingdom_quest:starter_quests/give_quest_load_the_lodestone",
+        "kingdom_quest:starter_quests/give_quest_take_me_home",
+        "kingdom_quest:architecture_quests/give_quest_starting_small",
+        "kingdom_quest:expedition_quests/give_quest_completionist",
+        "kingdom_quest:expedition_quests/give_quest_adventure_completionist",
+        "kingdom_quest:expedition_quests/give_quest_husbandry_completionist",
+        "kingdom_quest:expedition_quests/give_quest_nether_completionist",
+        "kingdom_quest:expedition_quests/give_quest_end_completionist",
+        "kingdom_quest:expedition_quests/give_quest_finding_home",
+        "kingdom_quest:expedition_quests/give_quest_map_your_kingdom",
+        "kingdom_quest:diplomatic_quests/give_quest_the_long_road"
+    ]
+}

@@ -1,0 +1,1 @@
+execute at @s run function #minecraft:kingdom_quest/give_quests

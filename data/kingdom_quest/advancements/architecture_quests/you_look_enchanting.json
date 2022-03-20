@@ -1,15 +1,15 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:lectern"
+        "item": "minecraft:enchanting_table"
       },
-      "title": "Woohoo",
-      "description": "test",
-      "frame": "task",
+      "title": "You Look Enchanting",
+      "description": "Build an Enchanting Room",
+      "frame": "goal",
       "show_toast": true,
       "announce_to_chat": true
     },
-    "parent": "kingdom_quest:the_quest_begins",
+    "parent": "kingdom_quest:architecture_quests/librarians_lore",
     "criteria": {
       "requirement": {
         "trigger": "minecraft:item_used_on_block",
@@ -18,21 +18,21 @@
             "items": [
               "minecraft:written_book"
             ],
-            "nbt": "{\"title\": \"A New World\", \"author\": \"Bellandras\"}"
+            "nbt": "{\"title\": \"You Look Enchanting\", \"author\": \"Bellandras\", \"generation\": 3}"
           },
           "location": {
             "position": {
               "x": {
-                "min": 341,
-                "max": 342
+                "min": 136,
+                "max": 137
               },
               "y": {
-                "min": 69,
-                "max": 70
+                "min": 71,
+                "max": 72
               },
               "z": {
-                "min": -243,
-                "max": -242
+                "min": -104,
+                "max": -103
               }
             },
             "block": {
@@ -43,6 +43,9 @@
           }
         }
       }
+    },
+    "rewards": {
+        "function": "kingdom_quest:architecture_quests/complete_quest_you_look_enchanting"
     }
   }
   

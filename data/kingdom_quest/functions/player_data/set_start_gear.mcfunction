@@ -1,0 +1,2 @@
+execute as @s run item replace entity @s enderchest.0 with minecraft:compass{display:{Name: '{"text":"Spawn Compass"}'}} 1
+execute as @s if entity @s[name="dwarven_dad"] run item replace entity @s enderchest.1 with minecraft:dark_oak_log 64

@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:writable_book"
+      },
+      "title": "Diplomatic Quests",
+      "description": "Speak softly and carry a big stick!",
+      "background": "minecraft:textures/block/clay.png",
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:written_book"
+              ],
+              "nbt": "{title: \"The Long Road\", author: \"Bellandras\", generation:3}"
+            }
+          ]
+        }
+      }
+    }
+  }

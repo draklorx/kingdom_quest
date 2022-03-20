@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:flower_banner_pattern"
+      },
+      "title": "Starter Quests",
+      "description": "Welcome to Bellandras!",
+      "background": "minecraft:textures/block/birch_planks.png",
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:written_book"
+              ],
+              "nbt": "{title: \"The Quest Begins\", author: \"Bellandras\", generation:3}"
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "kingdom_quest:give_first_quest"
+        "function": "kingdom_quest:starter_quests/give_quest_the_quest_begins"
     }
 }

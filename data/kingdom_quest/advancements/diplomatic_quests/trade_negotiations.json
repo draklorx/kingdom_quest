@@ -45,7 +45,7 @@
       }
     },
     "rewards": {
-        "function": "kingdom_quest:starter_quests/complete_quest_trade_negotiations"
+        "function": "kingdom_quest:diplomatic_quests/complete_quest_trade_negotiations"
     }
   }
   

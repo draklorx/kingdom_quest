@@ -1,7 +1,7 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:stone_bricks"
+        "item": "minecraft:golden_helmet"
       },
       "title": "Seat of Power",
       "description": "Build a stronghold to rule from.",
@@ -45,7 +45,7 @@
       }
     },
     "rewards": {
-        "function": "kingdom_quest:starter_quests/complete_quest_seat_of_power"
+        "function": "kingdom_quest:diplomatic_quests/complete_quest_seat_of_power"
     }
   }
   

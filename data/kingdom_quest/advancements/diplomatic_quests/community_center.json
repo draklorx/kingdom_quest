@@ -5,7 +5,7 @@
       },
       "title": "Community Center",
       "description": "Create a communal structure at spawn and tie an event/quest to it.",
-      "frame": "task",
+      "frame": "goal",
       "show_toast": true,
       "announce_to_chat": true
     },
@@ -45,7 +45,7 @@
       }
     },
     "rewards": {
-        "function": "kingdom_quest:starter_quests/complete_quest_community_center"
+        "function": "kingdom_quest:diplomatic_quests/complete_quest_community_center"
     }
   }
   

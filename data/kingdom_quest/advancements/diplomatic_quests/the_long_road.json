@@ -45,7 +45,7 @@
       }
     },
     "rewards": {
-        "function": "kingdom_quest:starter_quests/complete_quest_map_your_kingdom"
+        "function": "kingdom_quest:diplomatic_quests/complete_quest_the_long_road"
     }
   }
   

@@ -9,7 +9,7 @@
       "show_toast": true,
       "announce_to_chat": true
     },
-    "parent": "kingdom_quest:diplomatic_quests/delving_deeper",
+    "parent": "kingdom_quest:diplomatic_quests/load_the_lodestone_in_hell",
     "criteria": {
       "requirement": {
         "trigger": "minecraft:item_used_on_block",
@@ -45,7 +45,7 @@
       }
     },
     "rewards": {
-        "function": "kingdom_quest:starter_quests/complete_quest_the_short_road"
+        "function": "kingdom_quest:diplomatic_quests/complete_quest_the_short_road"
     }
   }
   

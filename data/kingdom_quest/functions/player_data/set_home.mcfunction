@@ -169,3 +169,84 @@ execute as @s if entity @s[name="Homonormativity"] run setblock -2250 122 1150 m
 execute as @s if entity @s[name="Homonormativity"] run setblock -2250 123 1150 minecraft:lantern
 execute as @s if entity @s[name="Homonormativity"] run setblock -2250 121 1149 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="Homonormativity"] run forceload remove -2250 1150
+execute as @s if entity @s[name="Emperor_Loki"] run forceload add 3900 -500
+execute as @s if entity @s[name="Emperor_Loki"] run tp @s 3900 71 -503 0 0
+execute as @s if entity @s[name="Emperor_Loki"] run spawnpoint @s 3900 71 -503
+execute as @s if entity @s[name="Emperor_Loki"] run setblock 3900 72 -500 minecraft:cobblestone
+execute as @s if entity @s[name="Emperor_Loki"] run setblock 3900 71 -500 minecraft:cobblestone
+execute as @s if entity @s[name="Emperor_Loki"] run setblock 3900 73 -500 minecraft:cobblestone_wall
+execute as @s if entity @s[name="Emperor_Loki"] run setblock 3900 74 -500 minecraft:lantern
+execute as @s if entity @s[name="Emperor_Loki"] run setblock 3900 72 -501 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="Emperor_Loki"] run forceload remove 3900 -500
+execute as @s if entity @s[name=".Burglar1337"] run forceload add 1100 -4400 
+execute as @s if entity @s[name=".Burglar1337"] run tp @s 1100 71 -4405 0 0
+execute as @s if entity @s[name=".Burglar1337"] run spawnpoint @s 1100 71 -4405
+execute as @s if entity @s[name=".Burglar1337"] run setblock 1100 72 -4400 minecraft:cobblestone
+execute as @s if entity @s[name=".Burglar1337"] run setblock 1100 71 -4400 minecraft:cobblestone
+execute as @s if entity @s[name=".Burglar1337"] run setblock 1100 73 -4400 minecraft:cobblestone_wall
+execute as @s if entity @s[name=".Burglar1337"] run setblock 1100 74 -4400 minecraft:lantern
+execute as @s if entity @s[name=".Burglar1337"] run setblock 1100 72 -4401 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name=".Burglar1337"] run forceload remove 1100 -4400 
+execute as @s if entity @s[name="CleverNam3"] run forceload add -2900 2200
+execute as @s if entity @s[name="CleverNam3"] run tp @s -2900 69 2194 0 0
+execute as @s if entity @s[name="CleverNam3"] run spawnpoint @s -2900 69 2194
+execute as @s if entity @s[name="CleverNam3"] run setblock -2900 70 2200 minecraft:cobblestone
+execute as @s if entity @s[name="CleverNam3"] run setblock -2900 69 2200 minecraft:cobblestone
+execute as @s if entity @s[name="CleverNam3"] run setblock -2900 71 2200 minecraft:cobblestone_wall
+execute as @s if entity @s[name="CleverNam3"] run setblock -2900 72 2200 minecraft:lantern
+execute as @s if entity @s[name="CleverNam3"] run setblock -2900 70 2199 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="CleverNam3"] run forceload remove -2900 2200
+execute as @s if entity @s[name="DalasKingora"] run forceload add -950 3530
+execute as @s if entity @s[name="DalasKingora"] run tp @s -950 168 3526 0 0
+execute as @s if entity @s[name="DalasKingora"] run spawnpoint @s -950 168 3526
+execute as @s if entity @s[name="DalasKingora"] run setblock -950 168 3530 minecraft:cobblestone
+execute as @s if entity @s[name="DalasKingora"] run setblock -950 167 3530 minecraft:cobblestone
+execute as @s if entity @s[name="DalasKingora"] run setblock -950 169 3530 minecraft:cobblestone_wall
+execute as @s if entity @s[name="DalasKingora"] run setblock -950 170 3530 minecraft:lantern
+execute as @s if entity @s[name="DalasKingora"] run setblock -950 168 3529 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="DalasKingora"] run forceload remove -950 3530
+execute as @s if entity @s[name="HappySap"] run forceload add 175 -3125
+execute as @s if entity @s[name="HappySap"] run tp @s 175 115 -3130 0 0
+execute as @s if entity @s[name="HappySap"] run spawnpoint @s 175 115 -3130
+execute as @s if entity @s[name="HappySap"] run setblock 175 116 -3125 minecraft:cobblestone
+execute as @s if entity @s[name="HappySap"] run setblock 175 115 -3125 minecraft:cobblestone
+execute as @s if entity @s[name="HappySap"] run setblock 175 117 -3125 minecraft:cobblestone_wall
+execute as @s if entity @s[name="HappySap"] run setblock 175 118 -3125 minecraft:lantern
+execute as @s if entity @s[name="HappySap"] run setblock 175 116 -3126 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="HappySap"] run forceload remove 175 -3125
+execute as @s if entity @s[name="PralinePecan"] run forceload add 3795 630
+execute as @s if entity @s[name="PralinePecan"] run tp @s 3795 65 625 0 0
+execute as @s if entity @s[name="PralinePecan"] run spawnpoint @s 3795 65 625
+execute as @s if entity @s[name="PralinePecan"] run setblock 3795 65 630 minecraft:cobblestone
+execute as @s if entity @s[name="PralinePecan"] run setblock 3795 64 630 minecraft:cobblestone
+execute as @s if entity @s[name="PralinePecan"] run setblock 3795 66 630 minecraft:cobblestone_wall
+execute as @s if entity @s[name="PralinePecan"] run setblock 3795 67 630 minecraft:lantern
+execute as @s if entity @s[name="PralinePecan"] run setblock 3795 65 629 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="PralinePecan"] run forceload remove 3795 630
+execute as @s if entity @s[name="QueenDragonair"] run forceload add -5200 200
+execute as @s if entity @s[name="QueenDragonair"] run tp @s -5200 67 195 0 0
+execute as @s if entity @s[name="QueenDragonair"] run spawnpoint @s -5200 67 195
+execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 71 200 minecraft:cobblestone
+execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 70 200 minecraft:cobblestone
+execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 72 200 minecraft:cobblestone_wall
+execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 73 200 minecraft:lantern
+execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 71 199 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="QueenDragonair"] run forceload remove -5200 200
+execute as @s if entity @s[name="Megantopia"] run forceload add 4280 -4550
+execute as @s if entity @s[name="Megantopia"] run tp @s 4280 67 -4555 0 0
+execute as @s if entity @s[name="Megantopia"] run spawnpoint @s 4280 67 -4555
+execute as @s if entity @s[name="Megantopia"] run setblock 4280 68 -4550 minecraft:cobblestone
+execute as @s if entity @s[name="Megantopia"] run setblock 4280 67 -4550 minecraft:cobblestone
+execute as @s if entity @s[name="Megantopia"] run setblock 4280 69 -4550 minecraft:cobblestone_wall
+execute as @s if entity @s[name="Megantopia"] run setblock 4280 70 -4550 minecraft:lantern
+execute as @s if entity @s[name="Megantopia"] run setblock 4280 68 -4551 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="Megantopia"] run forceload remove 4280 -4550
+execute as @s if entity @s[name="dwarven_dad"] run forceload add -4200 -3650
+execute as @s if entity @s[name="dwarven_dad"] run tp @s -4200 121 -3655 0 0
+execute as @s if entity @s[name="dwarven_dad"] run spawnpoint @s -4200 121 -3655
+execute as @s if entity @s[name="dwarven_dad"] run setblock -4200 121 -3650 minecraft:cobblestone
+execute as @s if entity @s[name="dwarven_dad"] run setblock -4200 120 -3650 minecraft:cobblestone
+execute as @s if entity @s[name="dwarven_dad"] run setblock -4200 122 -3650 minecraft:cobblestone_wall
+execute as @s if entity @s[name="dwarven_dad"] run setblock -4200 123 -3650 minecraft:lantern
+execute as @s if entity @s[name="dwarven_dad"] run setblock -4200 121 -3651 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="dwarven_dad"] run forceload remove -4200 -3650

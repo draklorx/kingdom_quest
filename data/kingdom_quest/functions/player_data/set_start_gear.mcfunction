@@ -44,3 +44,7 @@ execute as @s if entity @s[name="ArtificerTeasel"] run item replace entity @s en
 execute as @s if entity @s[name="ArtificerTeasel"] run item replace entity @s enderchest.2 with minecraft:cobbled_deepslate 64
 execute as @s if entity @s[name="ArtificerTeasel"] run item replace entity @s enderchest.3 with minecraft:cobbled_deepslate 64
 execute as @s if entity @s[name="ArtificerTeasel"] run item replace entity @s enderchest.4 with minecraft:cobbled_deepslate 64
+execute as @s if entity @s[name="Krystlejo42"] run item replace entity @s enderchest.1 with minecraft:sandstone 64
+execute as @s if entity @s[name="Krystlejo42"] run item replace entity @s enderchest.2 with minecraft:sandstone 64
+execute as @s if entity @s[name="Krystlejo42"] run item replace entity @s enderchest.3 with minecraft:sandstone 64
+execute as @s if entity @s[name="Krystlejo42"] run item replace entity @s enderchest.4 with minecraft:sandstone 64

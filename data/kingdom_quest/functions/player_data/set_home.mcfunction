@@ -25,15 +25,15 @@ execute as @s if entity @s[name="SheepBlock"] run setblock 1600 94 104 minecraft
 execute as @s if entity @s[name="SheepBlock"] run setblock 1600 95 104 minecraft:lantern
 execute as @s if entity @s[name="SheepBlock"] run setblock 1600 93 103 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="SheepBlock"] run forceload remove 1600 104
-execute as @s if entity @s[name="Wizard_weasly"] run forceload add -4000 2447
-execute as @s if entity @s[name="Wizard_weasly"] run tp @s -4000 68 2443 0 0
-execute as @s if entity @s[name="Wizard_weasly"] run spawnpoint @s -4000 68 2443
-execute as @s if entity @s[name="Wizard_weasly"] run setblock -4000 69 2447 minecraft:cobblestone
-execute as @s if entity @s[name="Wizard_weasly"] run setblock -4000 68 2447 minecraft:cobblestone
-execute as @s if entity @s[name="Wizard_weasly"] run setblock -4000 70 2447 minecraft:cobblestone_wall
-execute as @s if entity @s[name="Wizard_weasly"] run setblock -4000 71 2447 minecraft:lantern
-execute as @s if entity @s[name="Wizard_weasly"] run setblock -4000 69 2446 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
-execute as @s if entity @s[name="Wizard_weasly"] run forceload remove -4000 2447
+execute as @s if entity @s[name="Wizard_Weasley"] run forceload add -4000 2447
+execute as @s if entity @s[name="Wizard_Weasley"] run tp @s -4000 68 2443 0 0
+execute as @s if entity @s[name="Wizard_Weasley"] run spawnpoint @s -4000 68 2443
+execute as @s if entity @s[name="Wizard_Weasley"] run setblock -4000 69 2447 minecraft:cobblestone
+execute as @s if entity @s[name="Wizard_Weasley"] run setblock -4000 68 2447 minecraft:cobblestone
+execute as @s if entity @s[name="Wizard_Weasley"] run setblock -4000 70 2447 minecraft:cobblestone_wall
+execute as @s if entity @s[name="Wizard_Weasley"] run setblock -4000 71 2447 minecraft:lantern
+execute as @s if entity @s[name="Wizard_Weasley"] run setblock -4000 69 2446 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="Wizard_Weasley"] run forceload remove -4000 2447
 execute as @s if entity @s[name="IzumiDaye"] run forceload add -3075 3954 
 execute as @s if entity @s[name="IzumiDaye"] run tp @s -3075 88 3950 0 0
 execute as @s if entity @s[name="IzumiDaye"] run spawnpoint @s -3075 88 3950

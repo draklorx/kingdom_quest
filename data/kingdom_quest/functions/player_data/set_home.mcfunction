@@ -133,3 +133,39 @@ execute as @s if entity @s[name="Krystlejo42"] run setblock 1693 67 -728 minecra
 execute as @s if entity @s[name="Krystlejo42"] run setblock 1693 68 -728 minecraft:lantern
 execute as @s if entity @s[name="Krystlejo42"] run setblock 1693 66 -729 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="Krystlejo42"] run forceload remove 1693 -728
+execute as @s if entity @s[name="DnumroV"] run forceload add 2275 -4093
+execute as @s if entity @s[name="DnumroV"] run tp @s 2275 64 -4098 0 0
+execute as @s if entity @s[name="DnumroV"] run spawnpoint @s 2275 64 -4098
+execute as @s if entity @s[name="DnumroV"] run setblock 2275 65 -4093 minecraft:cobblestone
+execute as @s if entity @s[name="DnumroV"] run setblock 2275 64 -4093 minecraft:cobblestone
+execute as @s if entity @s[name="DnumroV"] run setblock 2275 66 -4093 minecraft:cobblestone_wall
+execute as @s if entity @s[name="DnumroV"] run setblock 2275 67 -4093 minecraft:lantern
+execute as @s if entity @s[name="DnumroV"] run setblock 2275 65 -4094 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="DnumroV"] run forceload remove 2275 -4093
+execute as @s if entity @s[name="UnaecO"] run forceload add 1150 -2620
+execute as @s if entity @s[name="UnaecO"] run tp @s 1150 80 -2625 0 0
+execute as @s if entity @s[name="UnaecO"] run spawnpoint @s 1150 80 -2625
+execute as @s if entity @s[name="UnaecO"] run setblock 1150 81 -2620 minecraft:cobblestone
+execute as @s if entity @s[name="UnaecO"] run setblock 1150 80 -2620 minecraft:cobblestone
+execute as @s if entity @s[name="UnaecO"] run setblock 1150 82 -2620 minecraft:cobblestone_wall
+execute as @s if entity @s[name="UnaecO"] run setblock 1150 83 -2620 minecraft:lantern
+execute as @s if entity @s[name="UnaecO"] run setblock 1150 81 -2621 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="UnaecO"] run forceload remove 1150 -2620
+execute as @s if entity @s[name="elspark101"] run forceload add 2900 -1750 
+execute as @s if entity @s[name="elspark101"] run tp @s 2900 70 -1755 0 0
+execute as @s if entity @s[name="elspark101"] run spawnpoint @s 2900 70 -1755
+execute as @s if entity @s[name="elspark101"] run setblock 2900 73 -1750 minecraft:cobblestone
+execute as @s if entity @s[name="elspark101"] run setblock 2900 72 -1750 minecraft:cobblestone
+execute as @s if entity @s[name="elspark101"] run setblock 2900 74 -1750 minecraft:cobblestone_wall
+execute as @s if entity @s[name="elspark101"] run setblock 2900 75 -1750 minecraft:lantern
+execute as @s if entity @s[name="elspark101"] run setblock 2900 73 -1751 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="elspark101"] run forceload remove 2900 -1750
+execute as @s if entity @s[name="Homonormativity"] run forceload add -2250 1150
+execute as @s if entity @s[name="Homonormativity"] run tp @s -2250 120 1146 0 0
+execute as @s if entity @s[name="Homonormativity"] run spawnpoint @s -2250 120 1146
+execute as @s if entity @s[name="Homonormativity"] run setblock -2250 121 1150 minecraft:cobblestone
+execute as @s if entity @s[name="Homonormativity"] run setblock -2250 120 1150 minecraft:cobblestone
+execute as @s if entity @s[name="Homonormativity"] run setblock -2250 122 1150 minecraft:cobblestone_wall
+execute as @s if entity @s[name="Homonormativity"] run setblock -2250 123 1150 minecraft:lantern
+execute as @s if entity @s[name="Homonormativity"] run setblock -2250 121 1149 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="Homonormativity"] run forceload remove -2250 1150

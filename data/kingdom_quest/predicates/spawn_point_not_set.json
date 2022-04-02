@@ -1,0 +1,7 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "nbt": "{SpawnX:141,SpawnY:65,SpawnZ:-78}"
+    }
+}

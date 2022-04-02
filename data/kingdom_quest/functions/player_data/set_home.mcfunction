@@ -232,15 +232,15 @@ execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 72 200 mine
 execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 73 200 minecraft:lantern
 execute as @s if entity @s[name="QueenDragonair"] run setblock -5200 71 199 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="QueenDragonair"] run forceload remove -5200 200
-execute as @s if entity @s[name="Megantopia"] run forceload add 4280 -4550
-execute as @s if entity @s[name="Megantopia"] run tp @s 4280 67 -4555 0 0
-execute as @s if entity @s[name="Megantopia"] run spawnpoint @s 4280 67 -4555
-execute as @s if entity @s[name="Megantopia"] run setblock 4280 68 -4550 minecraft:cobblestone
-execute as @s if entity @s[name="Megantopia"] run setblock 4280 67 -4550 minecraft:cobblestone
-execute as @s if entity @s[name="Megantopia"] run setblock 4280 69 -4550 minecraft:cobblestone_wall
-execute as @s if entity @s[name="Megantopia"] run setblock 4280 70 -4550 minecraft:lantern
-execute as @s if entity @s[name="Megantopia"] run setblock 4280 68 -4551 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
-execute as @s if entity @s[name="Megantopia"] run forceload remove 4280 -4550
+execute as @s if entity @s[name="megantopia"] run forceload add 4280 -4550
+execute as @s if entity @s[name="megantopia"] run tp @s 4280 67 -4555 0 0
+execute as @s if entity @s[name="megantopia"] run spawnpoint @s 4280 67 -4555
+execute as @s if entity @s[name="megantopia"] run setblock 4280 68 -4550 minecraft:cobblestone
+execute as @s if entity @s[name="megantopia"] run setblock 4280 67 -4550 minecraft:cobblestone
+execute as @s if entity @s[name="megantopia"] run setblock 4280 69 -4550 minecraft:cobblestone_wall
+execute as @s if entity @s[name="megantopia"] run setblock 4280 70 -4550 minecraft:lantern
+execute as @s if entity @s[name="megantopia"] run setblock 4280 68 -4551 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="megantopia"] run forceload remove 4280 -4550
 execute as @s if entity @s[name="Mrfixit44"] run forceload add -4200 -3650
 execute as @s if entity @s[name="Mrfixit44"] run tp @s -4200 121 -3655 0 0
 execute as @s if entity @s[name="Mrfixit44"] run spawnpoint @s -4200 121 -3655

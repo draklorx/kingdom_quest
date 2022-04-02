@@ -24,6 +24,6 @@ execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="DalasKingora"] r
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Happysap05"] run spawnpoint @s 175 115 -3130
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="WildWayman"] run spawnpoint @s 3795 65 625
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="QueenDragonair"] run spawnpoint @s -5200 67 195
-execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Megantopia"] run spawnpoint @s 4280 67 -4555
+execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="megantopia"] run spawnpoint @s 4280 67 -4555
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Mrfixit44"] run spawnpoint @s -4200 121 -3655
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Kempjuice"] run spawnpoint @s -2506 109 -711

@@ -250,3 +250,12 @@ execute as @s if entity @s[name="Mrfixit44"] run setblock -4200 122 -3650 minecr
 execute as @s if entity @s[name="Mrfixit44"] run setblock -4200 123 -3650 minecraft:lantern
 execute as @s if entity @s[name="Mrfixit44"] run setblock -4200 121 -3651 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="Mrfixit44"] run forceload remove -4200 -3650
+execute as @s if entity @s[name="Kempjuice"] run forceload add -2506 -706
+execute as @s if entity @s[name="Kempjuice"] run tp @s -2506 109 -711 0 0
+execute as @s if entity @s[name="Kempjuice"] run spawnpoint @s -2506 109 -711
+execute as @s if entity @s[name="Kempjuice"] run setblock -2506 110 -706 minecraft:cobblestone
+execute as @s if entity @s[name="Kempjuice"] run setblock -2506 109 -706 minecraft:cobblestone
+execute as @s if entity @s[name="Kempjuice"] run setblock -2506 111 -706 minecraft:cobblestone_wall
+execute as @s if entity @s[name="Kempjuice"] run setblock -2506 112 -706 minecraft:lantern
+execute as @s if entity @s[name="Kempjuice"] run setblock -2506 110 -707 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="Kempjuice"] run forceload remove -2506 -706

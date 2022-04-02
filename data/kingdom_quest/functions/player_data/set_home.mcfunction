@@ -214,15 +214,15 @@ execute as @s if entity @s[name="Happysap05"] run setblock 175 117 -3125 minecra
 execute as @s if entity @s[name="Happysap05"] run setblock 175 118 -3125 minecraft:lantern
 execute as @s if entity @s[name="Happysap05"] run setblock 175 116 -3126 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="Happysap05"] run forceload remove 175 -3125
-execute as @s if entity @s[name="PralinePecan"] run forceload add 3795 630
-execute as @s if entity @s[name="PralinePecan"] run tp @s 3795 65 625 0 0
-execute as @s if entity @s[name="PralinePecan"] run spawnpoint @s 3795 65 625
-execute as @s if entity @s[name="PralinePecan"] run setblock 3795 65 630 minecraft:cobblestone
-execute as @s if entity @s[name="PralinePecan"] run setblock 3795 64 630 minecraft:cobblestone
-execute as @s if entity @s[name="PralinePecan"] run setblock 3795 66 630 minecraft:cobblestone_wall
-execute as @s if entity @s[name="PralinePecan"] run setblock 3795 67 630 minecraft:lantern
-execute as @s if entity @s[name="PralinePecan"] run setblock 3795 65 629 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
-execute as @s if entity @s[name="PralinePecan"] run forceload remove 3795 630
+execute as @s if entity @s[name="WildWayman"] run forceload add 3795 630
+execute as @s if entity @s[name="WildWayman"] run tp @s 3795 65 625 0 0
+execute as @s if entity @s[name="WildWayman"] run spawnpoint @s 3795 65 625
+execute as @s if entity @s[name="WildWayman"] run setblock 3795 65 630 minecraft:cobblestone
+execute as @s if entity @s[name="WildWayman"] run setblock 3795 64 630 minecraft:cobblestone
+execute as @s if entity @s[name="WildWayman"] run setblock 3795 66 630 minecraft:cobblestone_wall
+execute as @s if entity @s[name="WildWayman"] run setblock 3795 67 630 minecraft:lantern
+execute as @s if entity @s[name="WildWayman"] run setblock 3795 65 629 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="WildWayman"] run forceload remove 3795 630
 execute as @s if entity @s[name="QueenDragonair"] run forceload add -5200 200
 execute as @s if entity @s[name="QueenDragonair"] run tp @s -5200 67 195 0 0
 execute as @s if entity @s[name="QueenDragonair"] run spawnpoint @s -5200 67 195

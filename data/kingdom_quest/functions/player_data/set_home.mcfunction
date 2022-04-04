@@ -259,3 +259,14 @@ execute as @s if entity @s[name="Kempjuice"] run setblock -2506 111 -706 minecra
 execute as @s if entity @s[name="Kempjuice"] run setblock -2506 112 -706 minecraft:lantern
 execute as @s if entity @s[name="Kempjuice"] run setblock -2506 110 -707 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="Kempjuice"] run forceload remove -2506 -706
+execute as @s if entity @s[name=".MatheoMiller267"] run tp @s -5151 82 1021 0 0
+execute as @s if entity @s[name=".MatheoMiller267"] run spawnpoint @s -5151 82 1021
+execute as @s if entity @s[name="THEODLE13"] run forceload add -4314 1188
+execute as @s if entity @s[name="THEODLE13"] run tp @s -4314 64 1183 0 0
+execute as @s if entity @s[name="THEODLE13"] run spawnpoint @s -4314 64 1183
+execute as @s if entity @s[name="THEODLE13"] run setblock -4314 64 1188 minecraft:cobblestone
+execute as @s if entity @s[name="THEODLE13"] run setblock -4314 63 1188 minecraft:cobblestone
+execute as @s if entity @s[name="THEODLE13"] run setblock -4314 65 1188 minecraft:cobblestone_wall
+execute as @s if entity @s[name="THEODLE13"] run setblock -4314 66 1188 minecraft:lantern
+execute as @s if entity @s[name="THEODLE13"] run setblock -4314 64 1187 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name="THEODLE13"] run forceload remove -4314 1188

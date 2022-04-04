@@ -27,3 +27,5 @@ execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="QueenDragonair98
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="megantopia"] run spawnpoint @s 4280 67 -4555
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Mrfixit44"] run spawnpoint @s -4200 121 -3655
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Kempjuice"] run spawnpoint @s -2506 109 -711
+execute as @a[predicate=kingdom_quest:spawn_point_not_set,name=".MatheoMiller267"] run spawnpoint @s -5151 82 1021
+execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="THEODLE13"] run spawnpoint @s -4314 64 1183

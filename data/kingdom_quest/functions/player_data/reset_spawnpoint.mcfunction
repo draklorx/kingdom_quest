@@ -19,7 +19,7 @@ execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="elspark101"] run
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Homonormativity"] run spawnpoint @s -2250 120 1146
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Emperor_Loki"] run spawnpoint @s 3900 71 -503
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name=".Burglar1337"] run spawnpoint @s 1100 71 -4405
-execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="CleverNam3"] run spawnpoint @s -2900 69 2194
+execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="CleverNam3"] run spawnpoint @s -5200 67 195
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="DalasKingora"] run spawnpoint @s -950 168 3526
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Happysap05"] run spawnpoint @s 175 115 -3130
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="WildWayman"] run spawnpoint @s 3795 65 625
@@ -28,5 +28,5 @@ execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="megantopia"] run
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Mrfixit44"] run spawnpoint @s -4200 121 -3655
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="Kempjuice"] run spawnpoint @s -2506 109 -711
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name=".MatheoMiller267"] run spawnpoint @s -5151 82 1021
-execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="THEODLE13"] run spawnpoint @s -4314 64 1183
+execute as @a[predicate=kingdom_quest:spawn_point_not_set,name="THEODLE13"] run spawnpoint @s -123 64 -2763
 execute as @a[predicate=kingdom_quest:spawn_point_not_set,name=".yam2010"] run spawnpoint @s 2400 140 -5104

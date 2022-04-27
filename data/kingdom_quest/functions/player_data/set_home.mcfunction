@@ -270,3 +270,12 @@ execute as @s if entity @s[name="THEODLE13"] run setblock -4314 65 1188 minecraf
 execute as @s if entity @s[name="THEODLE13"] run setblock -4314 66 1188 minecraft:lantern
 execute as @s if entity @s[name="THEODLE13"] run setblock -4314 64 1187 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name="THEODLE13"] run forceload remove -4314 1188
+execute as @s if entity @s[name=".yam2010"] run forceload add 2400 -5100 
+execute as @s if entity @s[name=".yam2010"] run tp @s 2400 140 -5104 0 0
+execute as @s if entity @s[name=".yam2010"] run spawnpoint @s 2400 140 -5104
+execute as @s if entity @s[name=".yam2010"] run setblock 2400 140 -5100 minecraft:cobblestone
+execute as @s if entity @s[name=".yam2010"] run setblock 2400 139 -5100 minecraft:cobblestone
+execute as @s if entity @s[name=".yam2010"] run setblock 2400 141 -5100 minecraft:cobblestone_wall
+execute as @s if entity @s[name=".yam2010"] run setblock 2400 142 -5100 minecraft:lantern
+execute as @s if entity @s[name=".yam2010"] run setblock 2400 140 -5101 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name=".yam2010"] run forceload remove 2400 -5100

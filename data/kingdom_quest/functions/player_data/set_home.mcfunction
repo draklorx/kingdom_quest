@@ -279,3 +279,12 @@ execute as @s if entity @s[name=".yam2010"] run setblock 2400 141 -5100 minecraf
 execute as @s if entity @s[name=".yam2010"] run setblock 2400 142 -5100 minecraft:lantern
 execute as @s if entity @s[name=".yam2010"] run setblock 2400 140 -5101 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
 execute as @s if entity @s[name=".yam2010"] run forceload remove 2400 -5100
+execute as @s if entity @s[name=".Belarus1611"] run forceload add -850 -2820 
+execute as @s if entity @s[name=".Belarus1611"] run tp @s -850 64 -2825 0 0
+execute as @s if entity @s[name=".Belarus1611"] run spawnpoint @s 5000 69 246
+execute as @s if entity @s[name=".Belarus1611"] run setblock -850 65 -2820 minecraft:cobblestone
+execute as @s if entity @s[name=".Belarus1611"] run setblock -850 64 -2820 minecraft:cobblestone
+execute as @s if entity @s[name=".Belarus1611"] run setblock -850 66 -2820 minecraft:cobblestone_wall
+execute as @s if entity @s[name=".Belarus1611"] run setblock -850 67 -2820 minecraft:lantern
+execute as @s if entity @s[name=".Belarus1611"] run setblock -850 65 -2821 minecraft:oak_wall_sign[facing=north,waterlogged=false]{Color:"black",GlowingText:0b,Text1:'{"text":""}',Text2:'{"text":"Kingdom Center"}',Text3:'{"text":""}',Text4:'{"text":""}'}
+execute as @s if entity @s[name=".Belarus1611"] run forceload remove -850 -2820

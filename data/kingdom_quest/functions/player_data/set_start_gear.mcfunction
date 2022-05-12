@@ -99,3 +99,4 @@ execute as @s if entity @s[name=".yam2010"] run item replace entity @s enderches
 execute as @s if entity @s[name=".yam2010"] run item replace entity @s enderchest.3 with minecraft:diorite 64
 execute as @s if entity @s[name=".yam2010"] run item replace entity @s enderchest.4 with minecraft:diorite 64
 execute as @s if entity @s[name=".yam2010"] run item replace entity @s enderchest.5 with minecraft:diorite 64
+execute as @s if entity @s[name=".Belarus1611"] run item replace entity @s enderchest.1 with minecraft:birch_log 64
